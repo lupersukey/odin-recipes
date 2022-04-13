@@ -1,0 +1,25 @@
+*{
+    background-color: white;
+    font-family: Helvetica;
+    color: lightslategray;
+}
+
+h1{
+    text-align: center;
+}
+
+hr{
+    border: 30px solid mediumseagreen;
+}
+
+h2 {
+    text-align: center;
+}
+
+h4 {
+    color: mediumseagreen;
+}
+
+li::marker {
+    color: mediumseagreen;
+}
